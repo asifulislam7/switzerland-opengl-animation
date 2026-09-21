@@ -6,7 +6,7 @@ The scene supports day/night switching, turbine control, and adjustable animatio
 
 ## 🎥 Video Demo
 
-
+https://github.com/user-attachments/assets/5579bccc-4690-4670-afa4-ac5cc3ce4ba0
 
 ## ✨ Features
 
